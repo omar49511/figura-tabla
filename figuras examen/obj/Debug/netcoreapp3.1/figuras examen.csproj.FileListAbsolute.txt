@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\figuras examen\figuras examen\bin\Debug\netcoreapp3.1\figuras examen.exe
+C:\Users\DELL\source\repos\figuras examen\figuras examen\bin\Debug\netcoreapp3.1\figuras examen.deps.json
+C:\Users\DELL\source\repos\figuras examen\figuras examen\bin\Debug\netcoreapp3.1\figuras examen.runtimeconfig.json
+C:\Users\DELL\source\repos\figuras examen\figuras examen\bin\Debug\netcoreapp3.1\figuras examen.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\figuras examen\figuras examen\bin\Debug\netcoreapp3.1\figuras examen.dll
+C:\Users\DELL\source\repos\figuras examen\figuras examen\bin\Debug\netcoreapp3.1\figuras examen.pdb
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras_examen.Form1.resources
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras_examen.Properties.Resources.resources
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.AssemblyInfo.cs
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.dll
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.pdb
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.genruntimeconfig.cache
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\figuras examen\figuras examen\obj\Debug\netcoreapp3.1\figuras examen.GeneratedMSBuildEditorConfig.editorconfig
